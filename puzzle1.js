@@ -1,12 +1,12 @@
 Function repeat(direction, max){
 Var count=0
 While (count < max) {
-		Direction
-		count=count+1
+	direction
+	count=count+1
 }
 }
 
 Repeat (down,7)
 Repeat (right,5)
 Repeat (up,2)
-Repeat (right,3)
+Repeat (right,2)
